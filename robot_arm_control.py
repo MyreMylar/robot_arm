@@ -55,7 +55,7 @@ class RobotArmControl:
     #
     #
     # You can find a list of all valid pygame keys available here:
-    # http://www.pygame.org/docs/ref/key.html
+    # https://www.pygame.org/docs/ref/key.html
     #
     # OR just look at the bottom of this file where I have copied the list in a comment.
     # --
@@ -63,7 +63,7 @@ class RobotArmControl:
     # raspberry pi using one of these websites:
     #
     # https://pastebin.com/
-    # http://pasted.co/
+    # https://controlc.com/
     # https://paste2.org/
     # http://codepad.org/
     #
